@@ -1,0 +1,1 @@
+const x = new Array("ola", "tudo"," bem");
